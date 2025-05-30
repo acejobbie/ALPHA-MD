@@ -24,7 +24,7 @@ const config = {
     AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || 'viewed by 🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ ❬𝕯❭',   
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || 'no',  
     ANTICALL_MSG: process.env.ANTICALL_MSG || 'call declined',             
-    GURL: process.env.GURL || "https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47",
+    GURL: process.env.GURL || "https://chat.whatsapp.com/FHuZTsnUIseCbmvjown5YH",
     EVENTS: process.env.EVENTS || "no",    
     BOT: process.env.BOT_NAME || '𒋨🏴‍☠️⃝𝘼𝘾𝙀☠️𝘽𝙊𝙏⃝𒋨🉑',
     MODE: process.env.PUBLIC_MODE || "no",              
